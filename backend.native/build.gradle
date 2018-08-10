@@ -146,6 +146,7 @@ dependencies {
     bc_frontendCompile kotlinCompilerModule
 
     cli_bc sourceSets.cli_bc.output
+    compile "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
 }
 
 

@@ -21,7 +21,7 @@
 
 package kotlin.test
 
-import konan.FixmeMultiplatform
+import kotlin.native.FixmeMultiplatform
 import kotlin.internal.InlineOnly
 import kotlin.internal.OnlyInputTypes
 import kotlin.reflect.KClass
